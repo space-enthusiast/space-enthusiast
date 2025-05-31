@@ -23,7 +23,7 @@ Kafka 기반의 경량 분산 채팅 애플리케이션입니다.
 
 ---
 
-## 📁 [ldfs - *Light Distributed File System*](https://github.com/space-enthusiast/ldfs)
+## 📁 [ldfs - *Light Distributed File System*](https://github.com/space-enthusiast/ldfs) (제작중)
 Google File System(GFS) 아키텍처를 참고하여 구현한 경량 분산 파일 시스템입니다.  
 Master/Chunk 서버 구조, 파일 분할, 복제 및 위치 관리 등의 개념을 간단한 코드로 구현해보았습니다.
 
