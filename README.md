@@ -1,11 +1,6 @@
-
-
-
-
-
 # 👋 Introduction
 
-안녕하세요. 백엔드 개발자입니다.
+Hello I'm a backend developer with 5+ years of experience.
 
 ## 💼 Work Experience
 - [Voithru](https://voithru.com/) / 2021.01 ~ 2025.10
