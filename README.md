@@ -24,15 +24,12 @@ Hello I'm a backend developer with 5+ years of experience.
 # 🌱 Other Experience
 
 ## 🛠️ Projects
-- **[Global Ctrl C + V](https://github.com/space-enthusiast/gcv)**  
-  Global clipboard synchronization service enabling seamless copy & paste across multiple devices.  
+- **[Global Ctrl C + V](https://github.com/space-enthusiast/gcv)**  / Global clipboard synchronization service enabling seamless copy & paste across multiple devices.  
   Built with **Kotlin + Ktor** (server), **HTMX** (frontend), and **Go CLI** for Windows & Linux support.
 
-- **[Anytype PDF Tag Remover](https://github.com/space-enthusiast/any-type-pdf-tag-remover)**  
-  Cross-platform **GUI application** to analyze and remove Anytype-specific tags and metadata from exported PDF files.
+- **[Anytype PDF Tag Remover](https://github.com/space-enthusiast/any-type-pdf-tag-remover)** / Cross-platform **GUI application** to analyze and remove Anytype-specific tags and metadata from exported PDF files.
 
-- **[Drag to Summarize](https://github.com/space-enthusiast/summarizer)**  
-  Minimal **Chrome Extension** that summarizes selected text using Chrome’s built-in **Summarizer API**.
+- **[Drag to Summarize](https://github.com/space-enthusiast/summarizer)** / Minimal **Chrome Extension** that summarizes selected text using Chrome’s built-in **Summarizer API**.
 
 
 ## 📜 Certificate
