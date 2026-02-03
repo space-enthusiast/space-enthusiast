@@ -1,3 +1,8 @@
+
+
+
+
+
 # 👋 Introduction
 
 안녕하세요. 백엔드 개발자입니다.
@@ -23,14 +28,34 @@
 
 # 🌱 Other Experience
 
-## 🛠️ Project
-(wip)
+## 🛠️ Projects
+- **[Global Ctrl C + V](https://github.com/space-enthusiast/gcv)**  
+  Global clipboard synchronization service enabling seamless copy & paste across multiple devices.  
+  Built with **Kotlin + Ktor** (server), **HTMX** (frontend), and **Go CLI** for Windows & Linux support.
+
+- **[Anytype PDF Tag Remover](https://github.com/space-enthusiast/any-type-pdf-tag-remover)**  
+  Cross-platform **GUI application** to analyze and remove Anytype-specific tags and metadata from exported PDF files.
+
+- **[Drag to Summarize](https://github.com/space-enthusiast/summarizer)**  
+  Minimal **Chrome Extension** that summarizes selected text using Chrome’s built-in **Summarizer API**.
+
 
 ## 📜 Certificate
-(wip)
+- **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)**, DeepLearning.AI ([Certificate](/docs/certificate_coursera.jpeg)) - 2024.07
 
-## 🤝 Activity
-(wip)
+## 🤝 Activities
+### Bootcamp
+- Google Machine Learning Bootcamp (2024.12.25)
+
+### Conference
+- Open Source Summit Korea 2025 (2025.10.09 ~ 2025.11.05)
+- bbconf (2025, TBA)
+- GDG DevFest 2024 (2024.11.17)
+
+### Hackathon
+- SK AI SUMMIT 2025 – Claude Code Builder Hackathon (2025.10.13 ~ 2025.10.30)
+- Google Chrome Built-in AI Challenge 2025 (2025.10.26 ~ 2025.10.31)
+
 
 ## Problem Solving
 
