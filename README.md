@@ -42,7 +42,7 @@ Hello I'm a backend developer with 5+ years of experience.
 
 ### Conference
 - Open Source Summit Korea 2025 (2025.10.09 ~ 2025.11.05)
-- bbconf (2025, TBA)
+- bbconf (2025, 2025.12.25)
 - GDG DevFest 2024 (2024.11.17)
 
 ### Hackathon
