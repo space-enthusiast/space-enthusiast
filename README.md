@@ -24,6 +24,7 @@ Hello I'm a backend developer with 5+ years of experience.
 # 🌱 Other Experience
 
 ## 🛠️ Projects
+- **[Atrover](https://github.com/backyard-developers)** / A real-time rover control platform for Android-based rover clients. The system enables remote operators to control rovers via a web dashboard while receiving live video and audio feeds.
 - **[Global Ctrl C + V](https://github.com/space-enthusiast/gcv)**  / Global clipboard synchronization service enabling seamless copy & paste across multiple devices.  
   Built with **Kotlin + Ktor** (server), **HTMX** (frontend), and **Go CLI** for Windows & Linux support.
 
