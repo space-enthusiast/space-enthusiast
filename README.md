@@ -7,7 +7,6 @@ Hello I'm a backend developer with 5+ years of experience.
 
 ## 🎓 Education
 - B.Eng. in Software Engineering in [Korea Cyber University](https://www.cuk.edu) 2022.03 ~ 2026.02
-- M.Eng. in Software Engineering [Graduate School of AI & SW, Sogang University](https://gsinfo.sogang.ac.kr) 2026.03 ~ (current)
 
 ## 🛠 Tech Skills
 | Category | Stack |
