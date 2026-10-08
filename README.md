@@ -4,6 +4,7 @@ Hello I'm a backend developer with 5+ years of experience.
 
 ## 💼 Work Experience
 - [Voithru](https://voithru.com/) / 2021.01 ~ 2025.10
+- [ESTSecurity](https://www.estsecurity.com/) / 2026.07 ~ current
 
 ## 🎓 Education
 - B.Eng. in Software Engineering in [Korea Cyber University](https://www.cuk.edu) 2022.03 ~ 2026.02
