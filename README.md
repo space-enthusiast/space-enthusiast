@@ -1,6 +1,6 @@
 # 👋 Introduction
 
-Hello I'm a backend developer with 5+ years of experience.
+Hello I'm a backend developer with 6+ years of experience.
 
 ## 💼 Work Experience
 - [Voithru](https://voithru.com/) / 2021.01 ~ 2025.10
