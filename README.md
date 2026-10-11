@@ -38,12 +38,13 @@ Hello I'm a backend engineer with 6+ years of experience.
 
 ## 🤝 Activities
 ### Bootcamp
-- Google Machine Learning Bootcamp (2024.12.25)
+- Google Machine Learning Bootcamp (student) (2024.12.25)
 
 ### Conference
-- Open Source Summit Korea 2025 (2025.10.09 ~ 2025.11.05)
-- bbconf (2025, 2025.12.25)
-- GDG DevFest 2024 (2024.11.17)
+- bbconf (talker) (2026, 2026.08.01)
+- Open Source Summit Korea 2025 (attend) (2025.10.09 ~ 2025.11.05)
+- bbconf (attend) (2025, 2025.12.25)
+- GDG DevFest 2024 (attend) (2024.11.17)
 
 ### Hackathon
 - SK AI SUMMIT 2025 – Claude Code Builder Hackathon (2025.10.13 ~ 2025.10.30)
